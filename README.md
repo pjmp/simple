@@ -8,7 +8,7 @@
 # Installation & usage
 
 ```bash
-git clone https://github.com/pjmp/simple.git
+git clone --recurse-submodules https://github.com/pjmp/simple.git
 
 source simple/prompt.sh
 ```
